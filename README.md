@@ -7,3 +7,6 @@ Aerofit is a leading brand in the field of fitness equipment. Aerofit provides a
 
 * Perform descriptive analytics to create a customer profile for each AeroFit treadmill product by developing appropriate tables and charts.
 For each AeroFit treadmill product, construct two-way contingency tables and compute all conditional and marginal probabilities along with their insights/impact on the business.
+
+
+### Business analysis and My recommendations for the project are in the analysis file.
